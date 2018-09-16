@@ -1,0 +1,83 @@
+{
+    "0": {
+        "active": "N",
+        "pollTitle": "is this bot awesome?",
+        "pollShortcut": "bot",
+        "choices": [
+            "yes",
+            "no",
+            "meh"
+        ],
+        "votes": [
+            1,
+            0,
+            0
+        ],
+        "voters": [
+            "322729560821202944"
+        ]
+    },
+    "1": {
+        "active": "N",
+        "pollTitle": "how is your mom?",
+        "pollShortcut": "m",
+        "choices": [
+            "good",
+            "fine"
+        ],
+        "votes": [
+            1,
+            0
+        ],
+        "voters": [
+            "322729560821202944"
+        ]
+    },
+    "2": {
+        "active": "N",
+        "pollTitle": "Is cucumber cool?",
+        "pollShortcut": "cm",
+        "choices": [
+            "yes",
+            "no",
+            "shinigigini"
+        ],
+        "votes": [
+            0,
+            1,
+            2
+        ],
+        "voters": [
+            "322729560821202944",
+            "269267853759217667",
+            "220940876011143188"
+        ]
+    },
+    "3": {
+        "active": "N",
+        "pollTitle": "concept for Carpet game (Elemental)?",
+        "pollShortcut": "cg",
+        "choices": [
+            "Chameleon",
+            "Human Form",
+            "Elements"
+        ],
+        "votes": [
+            1,
+            2,
+            6
+        ],
+        "voters": [
+            "322729560821202944",
+            "220940876011143188",
+            "396677009176002580",
+            "383584598216409089",
+            "269267853759217667",
+            "324077238150627328",
+            "393099918732165122",
+            "415523470827454466",
+            "415183406738178048",
+            "302932779656544256"
+        ]
+    }
+}
