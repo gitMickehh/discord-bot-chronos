@@ -73,7 +73,7 @@ bot.registry.registerCommandsIn(__dirname + "/commands");
 
 bot.on("ready", async() =>{
     console.log(`${bot.user.username} is online`);
-    bot.user.setActivity("Raskulls meetings", {type: "LISTENING"});
+    bot.user.setActivity("nothing :(", {type: "LISTENING"});
 });
 
 bot.on("message", async message =>{
